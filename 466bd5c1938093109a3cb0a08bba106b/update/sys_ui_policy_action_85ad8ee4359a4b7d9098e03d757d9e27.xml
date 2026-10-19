@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>html_content</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-18 20:16:19</sys_created_on>
+        <sys_id>85ad8ee4359a4b7d9098e03d757d9e27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>html_content</sys_name>
+        <sys_package display_value="HTML5 Content Display" source="x_2270352_html5_co">466bd5c1938093109a3cb0a08bba106b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HTML5 Content Display">466bd5c1938093109a3cb0a08bba106b</sys_scope>
+        <sys_update_name>sys_ui_policy_action_85ad8ee4359a4b7d9098e03d757d9e27</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-18 20:16:19</sys_updated_on>
+        <table>x_2270352_html5_co_content</table>
+        <ui_policy display_value="Show/hide DOSBox and HTML fields based on dosbox toggle">5266d1c2f30b4a6b8f9d5b21d95eb8c3</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=85ad8ee4359a4b7d9098e03d757d9e27"/>
+</record_update>

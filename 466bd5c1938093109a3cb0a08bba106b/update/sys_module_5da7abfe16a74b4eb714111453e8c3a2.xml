@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_module">
+    <sys_module action="INSERT_OR_UPDATE">
+        <content><![CDATA[{
+  "name": "x-2270352-html-5-content-display",
+  "version": "1.0.0",
+  "description": "[BUILD AGENT GENERATED]:  Displays configurable HTML5 content stored in a custom table. Admins manage content via the table or Table API.",
+  "license": "UNLICENSED",
+  "imports": {
+    "#now:*": "./@types/servicenow/fluent/*/index.js"
+  },
+  "scripts": {
+    "build": "now-sdk build",
+    "deploy": "now-sdk install",
+    "transform": "now-sdk transform",
+    "types": "now-sdk dependencies"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@servicenow/react-components": "0.1.8"
+  },
+  "devDependencies": {
+    "@servicenow/sdk": "4.13.6",
+    "@servicenow/glide": "27.0.5",
+    "@types/react": "18.3.12"
+  }
+}]]></content>
+        <external_source>false</external_source>
+        <path>x_2270352_html5_co/x-2270352-html-5-content-display/1.0.0/package.json</path>
+        <sys_class_name>sys_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-18 18:45:33</sys_created_on>
+        <sys_id>5da7abfe16a74b4eb714111453e8c3a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2270352_html5_co/x-2270352-html-5-content-display/1.0.0/package.json</sys_name>
+        <sys_package display_value="HTML5 Content Display" source="x_2270352_html5_co">466bd5c1938093109a3cb0a08bba106b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HTML5 Content Display">466bd5c1938093109a3cb0a08bba106b</sys_scope>
+        <sys_update_name>sys_module_5da7abfe16a74b4eb714111453e8c3a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-18 18:45:33</sys_updated_on>
+    </sys_module>
+</record_update>

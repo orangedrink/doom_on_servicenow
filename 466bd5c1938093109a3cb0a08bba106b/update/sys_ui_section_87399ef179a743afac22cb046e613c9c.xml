@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Content Details" section_id="87399ef179a743afac22cb046e613c9c" sys_domain="global" table="x_2270352_html5_co_content" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:45</sys_created_on>
+            <sys_id>52506bcbe5344780b32a095d4065249b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Content Details" display_value="Content Details" name="x_2270352_html5_co_content" sys_domain="global" view="Default view">87399ef179a743afac22cb046e613c9c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:45</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:45</sys_created_on>
+            <sys_id>5832f0a72c2c4c52a5d600804a469598</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Content Details" display_value="Content Details" name="x_2270352_html5_co_content" sys_domain="global" view="Default view">87399ef179a743afac22cb046e613c9c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:45</sys_created_on>
+            <sys_id>72562f6a189c4882be5a80637b6264cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Content Details" display_value="Content Details" name="x_2270352_html5_co_content" sys_domain="global" view="Default view">87399ef179a743afac22cb046e613c9c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:45</sys_created_on>
+            <sys_id>86ed0efea4f745f3a4866c9ab9d25942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Content Details" display_value="Content Details" name="x_2270352_html5_co_content" sys_domain="global" view="Default view">87399ef179a743afac22cb046e613c9c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:45</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:45</sys_created_on>
+            <sys_id>1c27389573a5449fa5ae4feafa6cdca2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Content Details" display_value="Content Details" name="x_2270352_html5_co_content" sys_domain="global" view="Default view">87399ef179a743afac22cb046e613c9c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>iframe_only</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:45</sys_created_on>
+            <sys_id>1248f9194c6f4647a7425f3f7dc295a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Content Details" display_value="Content Details" name="x_2270352_html5_co_content" sys_domain="global" view="Default view">87399ef179a743afac22cb046e613c9c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:45</sys_created_on>
+            <sys_id>872ad1667aea4759974c0b4430331a3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Content Details" display_value="Content Details" name="x_2270352_html5_co_content" sys_domain="global" view="Default view">87399ef179a743afac22cb046e613c9c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:45</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:45</sys_created_on>
+            <sys_id>7fa0f2b38fe842f3bf588df126ecb555</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Content Details" display_value="Content Details" name="x_2270352_html5_co_content" sys_domain="global" view="Default view">87399ef179a743afac22cb046e613c9c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:45</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dosbox</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:45</sys_created_on>
+            <sys_id>b57a43dcfd1246b5b872cced765b439f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Content Details" display_value="Content Details" name="x_2270352_html5_co_content" sys_domain="global" view="Default view">87399ef179a743afac22cb046e613c9c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:45</sys_created_on>
+            <sys_id>0d1d01095e044fd586b92f439ef4980f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Content Details" display_value="Content Details" name="x_2270352_html5_co_content" sys_domain="global" view="Default view">87399ef179a743afac22cb046e613c9c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:45</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:45</sys_created_on>
+            <sys_id>11f631c64a4946d2914bd3e5c16be910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Content Details" display_value="Content Details" name="x_2270352_html5_co_content" sys_domain="global" view="Default view">87399ef179a743afac22cb046e613c9c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:45</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dosbox_program</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:45</sys_created_on>
+            <sys_id>61acc1258eea4f8b8d8222e272b352fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Content Details" display_value="Content Details" name="x_2270352_html5_co_content" sys_domain="global" view="Default view">87399ef179a743afac22cb046e613c9c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:45</sys_created_on>
+            <sys_id>3b68feb058b74eca87ce6c91007780b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Content Details" display_value="Content Details" name="x_2270352_html5_co_content" sys_domain="global" view="Default view">87399ef179a743afac22cb046e613c9c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>html_content</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:46</sys_created_on>
+            <sys_id>07c4baa61a3647bca928729df081cdd8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Content Details" display_value="Content Details" name="x_2270352_html5_co_content" sys_domain="global" view="Default view">87399ef179a743afac22cb046e613c9c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Content Details</caption>
+            <header>false</header>
+            <name>x_2270352_html5_co_content</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-18 18:45:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87399ef179a743afac22cb046e613c9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_2270352_html5_co_content</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="HTML5 Content Display" source="x_2270352_html5_co">466bd5c1938093109a3cb0a08bba106b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HTML5 Content Display">466bd5c1938093109a3cb0a08bba106b</sys_scope>
+            <sys_update_name>sys_ui_section_87399ef179a743afac22cb046e613c9c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-18 18:45:34</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e56d95c5938093109a3cb0a08bba103a" label="HTML5 Content" max_length="40" name="x_2270352_html5_co_content" type="collection">
+        <element label="DOSBox" max_length="40" name="dosbox" type="boolean"/>
+        <element choice="1" label="DOSBox Program" max_length="40" name="dosbox_program" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Winter Games" sequence="53" value="winter"/>
+                <element inactive_on_update="false" label="Earthworm Jim 2" sequence="18" value="ewj2"/>
+                <element inactive_on_update="false" label="Lamborghini" sequence="31" value="lamborg"/>
+                <element inactive_on_update="false" label="Gods" sequence="26" value="gods"/>
+                <element inactive_on_update="false" label="SimCity" sequence="41" value="simcity"/>
+                <element inactive_on_update="false" label="World Rally" sequence="56" value="world"/>
+                <element inactive_on_update="false" label="Indiana Jones" sequence="29" value="indy"/>
+                <element inactive_on_update="false" label="Wolfenstein (Episode)" sequence="54" value="wofe"/>
+                <element inactive_on_update="false" label="Ugh!" sequence="50" value="ugh"/>
+                <element inactive_on_update="false" label="Mortal Kombat" sequence="36" value="mk"/>
+                <element inactive_on_update="false" label="Heretic" sequence="28" value="heretic"/>
+                <element inactive_on_update="false" label="Prehistorik" sequence="39" value="prehisto"/>
+                <element inactive_on_update="false" label="Abuse" sequence="2" value="abuse"/>
+                <element inactive_on_update="false" label="The Lost Vikings" sequence="51" value="vikings"/>
+                <element inactive_on_update="false" label="DuckTales" sequence="15" value="ducktale"/>
+                <element inactive_on_update="false" label="Tower of Babel" sequence="48" value="tower"/>
+                <element inactive_on_update="false" label="Lode Runner" sequence="32" value="lr"/>
+                <element inactive_on_update="false" label="The Incredible Machine" sequence="47" value="tim"/>
+                <element inactive_on_update="false" label="Goblins Quest 3 (EN)" sequence="24" value="gob3_en"/>
+                <element inactive_on_update="false" label="Xonix" sequence="57" value="xonix"/>
+                <element inactive_on_update="false" label="Goblins Quest 3 (RU)" sequence="25" value="gob3_ru"/>
+                <element inactive_on_update="false" label="Budokan" sequence="5" value="budo"/>
+                <element inactive_on_update="false" label="Gobliins 2 (EN)" sequence="22" value="gob2_en"/>
+                <element inactive_on_update="false" label="Stunts" sequence="43" value="stunts"/>
+                <element inactive_on_update="false" label="Colorado" sequence="9" value="colorado"/>
+                <element inactive_on_update="false" label="DOOM II" sequence="13" value="doom2"/>
+                <element inactive_on_update="false" label="The Dark Half" sequence="45" value="tdh"/>
+                <element inactive_on_update="false" label="Pac-Man" sequence="37" value="pac-man"/>
+                <element inactive_on_update="false" label="4D Prince of Persia" sequence="1" value="4dprince"/>
+                <element inactive_on_update="false" label="Catacomb 3-D" sequence="6" value="cat"/>
+                <element inactive_on_update="false" label="Digger" sequence="11" value="digger"/>
+                <element inactive_on_update="false" label="Gobliiins (RU)" sequence="21" value="gob1_ru"/>
+                <element inactive_on_update="false" label="Dune II" sequence="16" value="dune2"/>
+                <element inactive_on_update="false" label="Chess" sequence="8" value="chess"/>
+                <element inactive_on_update="false" label="CD-Man 2" sequence="7" value="cdman2"/>
+                <element inactive_on_update="false" label="Scorched Earth" sequence="40" value="scorch"/>
+                <element inactive_on_update="false" label="Death Track" sequence="14" value="dtrack"/>
+                <element inactive_on_update="false" label="Prehistorik 2" sequence="38" value="prehist2"/>
+                <element inactive_on_update="false" label="Gobliiins (EN)" sequence="20" value="gob1_en"/>
+                <element inactive_on_update="false" label="Tetris" sequence="46" value="tetris"/>
+                <element inactive_on_update="false" label="Micro Machines" sequence="34" value="micro"/>
+                <element inactive_on_update="false" label="DOOM" sequence="12" value="doom"/>
+                <element inactive_on_update="false" label="Dynablaster" sequence="17" value="dyna"/>
+                <element inactive_on_update="false" label="Warcraft" sequence="52" value="war"/>
+                <element inactive_on_update="false" label="Tyrian 2000" sequence="49" value="tyrian2k"/>
+                <element inactive_on_update="false" label="Minesweeper Bomb" sequence="35" value="minebomb"/>
+                <element inactive_on_update="false" label="Metal Mutant" sequence="33" value="metal"/>
+                <element inactive_on_update="false" label="Golden Axe" sequence="27" value="goldaxe"/>
+                <element inactive_on_update="false" label="Arkanoid" sequence="3" value="arkanoid"/>
+                <element inactive_on_update="false" label="Final Fantasy II (EGA)" sequence="19" value="ff2ega"/>
+                <element inactive_on_update="false" label="Star Control" sequence="42" value="starcon"/>
+                <element inactive_on_update="false" label="Dangerous Dave" sequence="10" value="dave"/>
+                <element inactive_on_update="false" label="Aladdin (Virgin)" sequence="4" value="av"/>
+                <element inactive_on_update="false" label="Gobliins 2 (RU)" sequence="23" value="gob2_ru"/>
+                <element inactive_on_update="false" label="Supaplex" sequence="44" value="supaplex"/>
+                <element inactive_on_update="false" label="Wolfenstein 3D" sequence="55" value="wolf3d"/>
+                <element inactive_on_update="false" label="King's Empire" sequence="30" value="ke"/>
+            </choice>
+        </element>
+        <element display="true" label="Name" mandatory="true" max_length="200" name="name" type="string"/>
+        <element label="HTML Content" max_length="65000" name="html_content" type="multi_two_lines"/>
+        <element default="0" label="Order" max_length="40" name="order" type="integer"/>
+        <element label="Iframe Only" max_length="40" name="iframe_only" type="boolean"/>
+        <element label="Description" max_length="500" name="description" type="string"/>
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+    </element>
+</database>

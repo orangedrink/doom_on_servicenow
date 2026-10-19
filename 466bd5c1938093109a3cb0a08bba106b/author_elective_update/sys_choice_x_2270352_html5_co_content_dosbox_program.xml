@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="dosbox_program" table="x_2270352_html5_co_content" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>dosbox_program</element>
+            <name>x_2270352_html5_co_content</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-18 20:16:13</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>dosbox_program</sys_name>
+            <sys_package display_value="HTML5 Content Display" source="x_2270352_html5_co">466bd5c1938093109a3cb0a08bba106b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HTML5 Content Display">466bd5c1938093109a3cb0a08bba106b</sys_scope>
+            <sys_update_name>sys_choice_x_2270352_html5_co_content_dosbox_program</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-18 20:16:13</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4D Prince of Persia</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:48</sys_updated_on>
+            <value>4dprince</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Abuse</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:48</sys_updated_on>
+            <value>abuse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Arkanoid</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>arkanoid</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Aladdin (Virgin)</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>av</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Budokan</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>budo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Catacomb 3-D</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>cat</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CD-Man 2</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>cdman2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chess</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>chess</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Colorado</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>colorado</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dangerous Dave</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>dave</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Digger</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>11</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>digger</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DOOM</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>12</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>doom</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DOOM II</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>13</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>doom2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Death Track</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>14</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>dtrack</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DuckTales</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>15</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>ducktale</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dune II</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>16</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>dune2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dynablaster</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>17</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>dyna</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Earthworm Jim 2</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>18</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>ewj2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Final Fantasy II (EGA)</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>19</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>ff2ega</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gobliiins (EN)</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>gob1_en</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gobliiins (RU)</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>21</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>gob1_ru</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gobliins 2 (EN)</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>22</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>gob2_en</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gobliins 2 (RU)</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>23</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>gob2_ru</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Goblins Quest 3 (EN)</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>24</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>gob3_en</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Goblins Quest 3 (RU)</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>25</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>gob3_ru</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gods</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>26</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>gods</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Golden Axe</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>27</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>goldaxe</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Heretic</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>28</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>heretic</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Indiana Jones</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>29</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>indy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>King's Empire</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>ke</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lamborghini</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>31</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>lamborg</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lode Runner</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>32</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>lr</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Metal Mutant</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>33</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>metal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Micro Machines</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>34</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>micro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Minesweeper Bomb</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>35</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>minebomb</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mortal Kombat</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>36</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>mk</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pac-Man</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>37</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>pac-man</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Prehistorik 2</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>38</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>prehist2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Prehistorik</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>39</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>prehisto</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scorched Earth</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>scorch</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SimCity</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>41</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>simcity</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Star Control</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>42</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>starcon</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Stunts</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>43</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>stunts</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Supaplex</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>44</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>supaplex</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>The Dark Half</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>45</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:49</sys_updated_on>
+            <value>tdh</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tetris</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>46</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:50</sys_updated_on>
+            <value>tetris</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>The Incredible Machine</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>47</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:50</sys_updated_on>
+            <value>tim</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tower of Babel</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>48</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:50</sys_updated_on>
+            <value>tower</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tyrian 2000</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>49</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:50</sys_updated_on>
+            <value>tyrian2k</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ugh!</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:50</sys_updated_on>
+            <value>ugh</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>The Lost Vikings</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>51</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:50</sys_updated_on>
+            <value>vikings</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Warcraft</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>52</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:50</sys_updated_on>
+            <value>war</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Winter Games</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>53</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:50</sys_updated_on>
+            <value>winter</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Wolfenstein (Episode)</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>54</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:50</sys_updated_on>
+            <value>wofe</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Wolfenstein 3D</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>55</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:50</sys_updated_on>
+            <value>wolf3d</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>World Rally</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>56</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:50</sys_updated_on>
+            <value>world</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>dosbox_program</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Xonix</label>
+            <language>en</language>
+            <name>x_2270352_html5_co_content</name>
+            <sequence>57</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-19 15:10:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-19 15:10:50</sys_updated_on>
+            <value>xonix</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
